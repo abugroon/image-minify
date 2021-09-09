@@ -1,3 +1,4 @@
 /node_modules
-/src/images
-/dist/images
+src/images
+dist/images
+/.idea
